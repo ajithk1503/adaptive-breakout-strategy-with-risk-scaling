@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/7457bf026f8d40f9a7b3ddc9d9ae3749/artifacts
+end_time: 1750412820506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7457bf026f8d40f9a7b3ddc9d9ae3749
+run_name: youthful-colt-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750412818375
+status: 3
+tags: []
+user_id: ajith

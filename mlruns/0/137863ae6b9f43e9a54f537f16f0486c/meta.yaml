@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/137863ae6b9f43e9a54f537f16f0486c/artifacts
+end_time: 1750411638003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 137863ae6b9f43e9a54f537f16f0486c
+run_name: skillful-lamb-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411529828
+status: 3
+tags: []
+user_id: ajith

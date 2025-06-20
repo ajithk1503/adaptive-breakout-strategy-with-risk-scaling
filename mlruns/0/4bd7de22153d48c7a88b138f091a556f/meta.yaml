@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/4bd7de22153d48c7a88b138f091a556f/artifacts
+end_time: 1750413117250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bd7de22153d48c7a88b138f091a556f
+run_name: dazzling-shad-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750413115243
+status: 3
+tags: []
+user_id: ajith

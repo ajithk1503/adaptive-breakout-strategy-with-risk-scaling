@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/5f45fbf9dfc44f839106aeb0d2274a8d/artifacts
+end_time: 1750411507041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f45fbf9dfc44f839106aeb0d2274a8d
+run_name: fun-rat-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411406187
+status: 3
+tags: []
+user_id: ajith

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/67ce2e3686a54ee68807698d27175049/artifacts
+end_time: 1750411268103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67ce2e3686a54ee68807698d27175049
+run_name: masked-penguin-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411036810
+status: 3
+tags: []
+user_id: ajith

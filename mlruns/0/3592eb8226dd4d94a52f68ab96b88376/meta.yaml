@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/3592eb8226dd4d94a52f68ab96b88376/artifacts
+end_time: 1750411405514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3592eb8226dd4d94a52f68ab96b88376
+run_name: bold-skunk-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411356474
+status: 3
+tags: []
+user_id: ajith

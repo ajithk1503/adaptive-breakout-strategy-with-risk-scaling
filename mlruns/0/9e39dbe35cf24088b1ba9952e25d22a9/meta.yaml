@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ajith/Downloads/projects/adaptive-breakout-strategy-with-risk-scaling/mlruns/0/9e39dbe35cf24088b1ba9952e25d22a9/artifacts
+end_time: 1750411642856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e39dbe35cf24088b1ba9952e25d22a9
+run_name: merciful-fox-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750411640762
+status: 3
+tags: []
+user_id: ajith
